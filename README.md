@@ -1,6 +1,5 @@
 ## About Me
 
-Here is an updated self-introduction with some emoji:
 Hi there! I'm a full-stack developer and open source enthusiast. My favorite tech stack includes:
 - Koa.js - I love how lightweight yet powerful Koa is for Node.js web applications. I've used it to build many fast and scalable APIs. 🚀:
 - NestJS - For robust backend applications, NestJS helps me leverage TypeScript and OOP principles to write clean, testable code. The CLI is amazing too. 💻:
